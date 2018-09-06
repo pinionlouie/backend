@@ -7,6 +7,7 @@ A BACKEND TEST FOR ASPIRING BACKEND DEVS
 4) The admin must be able to create a room, which members will book
 5) The members must be able to book an open room.
 6) Add test cases for the BREAD (Browse, Read, Edit, Add, Delete)
+7) Create your own branch here..
 
 NOTES: It is up to you to build the front-end, since we only test if you can create robust api and be able to check how you create your codes
 
