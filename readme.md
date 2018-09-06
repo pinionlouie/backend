@@ -1,7 +1,7 @@
 A BACKEND TEST FOR ASPIRING BACKEND DEVS
 
 
-1) Make a laravel api based booking app
+1) Make a laravel api based booking app, apply OOP Concepts, Dependency Injection
 2) Make use of a jwt tokens for authentication
 3) The system must be able to handle two user roles, admin, members
 4) The admin must be able to create a room, which members will book
