@@ -1,19 +1,12 @@
 A BACKEND TEST FOR ASPIRING BACKEND DEVS
 
 
-1) Make a laravel api based booking app, apply OOP Concepts, Dependency Injection
-2) Make use of a jwt tokens for authentication
-3) The system must be able to handle two user roles, admin, members
-4) The admin must be able to create a room, which members will book
-5) The members must be able to book an open room.
-6) Add test cases for the BREAD (Browse, Read, Edit, Add, Delete)
-7) Create your own branch here.. or fork this branch, and push your branch, and send us a pull request..
+1) Make a laravel app, For a library book borrowing system..
+2) Browse Books, Add Book, Edit Book, Delete Book
+3) fields are below, feel free to add new fields if necesarry
 
-NOTES: It is up to you to build the front-end, since we only test if you can create robust api and be able to check how you create your codes
-
-Criteria: 
-Code Quality, 
-Unit Tests (you can use php unit or codecept, or postman using publish api),
-Understanding Concepts (it will show in your code)
+4) Book Fields (base)
+ id, name, number_of_pages
  
-
+5) User Fields
+ id, name, student_number
