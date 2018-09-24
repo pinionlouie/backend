@@ -5,8 +5,8 @@ A BACKEND TEST FOR ASPIRING BACKEND DEVS
 2) Browse Books, Add Book, Edit Book, Delete Book
 3) fields are below, feel free to add new fields if necesarry
 
-4) Book Fields (base)
+Book Fields
  id, name, number_of_pages
  
-5) User Fields
+User Fields
  id, name, student_number
