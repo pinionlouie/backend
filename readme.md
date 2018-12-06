@@ -14,3 +14,6 @@ User Fields
 4) Add User, Edit User, Delete User (soft-delete)
 5) Requirement: A user must be able to borrow a book, and return a book
 6) Requirement: Indicate when it was borrowed, and when it was returned
+
+
+Feel free to use API BASED + vue js, OR WEB-Based Laravel Blade
